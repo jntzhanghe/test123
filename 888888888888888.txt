@@ -1,0 +1,50 @@
+   redirect: http://1.1.1.3/disable/disable.htm?url_type=%E8%AE%BF%E9%97%AE%E7%BD%91%E7%AB%99/%49%54%E7%9B%B8%E5%85%B3&plc_name=%E7%A0%94%E5%8F%91%E5%8C%BA%E9%80%9A%E7%94%A8
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ echo $?
+128
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ echo $?
+0
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ git push -u origin main
+fatal: unable to update url base from redirection:
+  asked for: https://github.com/jntzhanghe/test.git/info/refs?service=git-receive-pack
+   redirect: http://1.1.1.3/disable/disable.htm?url_type=%E8%AE%BF%E9%97%AE%E7%BD%91%E7%AB%99/%49%54%E7%9B%B8%E5%85%B3&plc_name=%E7%A0%94%E5%8F%91%E5%8C%BA%E9%80%9A%E7%94%A8
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ git push -u origin main
+fatal: unable to update url base from redirection:
+  asked for: https://github.com/jntzhanghe/test.git/info/refs?service=git-receive-pack
+   redirect: http://1.1.1.3/disable/disable.htm?url_type=%E8%AE%BF%E9%97%AE%E7%BD%91%E7%AB%99/%49%54%E7%9B%B8%E5%85%B3&plc_name=%E7%A0%94%E5%8F%91%E5%8C%BA%E9%80%9A%E7%94%A8
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ git push -u origin main
+fatal: unable to update url base from redirection:
+  asked for: https://github.com/jntzhanghe/test.git/info/refs?service=git-receive-pack
+   redirect: http://1.1.1.3/disable/disable.htm?url_type=%E8%AE%BF%E9%97%AE%E7%BD%91%E7%AB%99/%49%54%E7%9B%B8%E5%85%B3&plc_name=%E7%A0%94%E5%8F%91%E5%8C%BA%E9%80%9A%E7%94%A8
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ git push -u origin main
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ git push -u origin main
+fatal: unable to update url base from redirection:
+  asked for: https://github.com/jntzhanghe/test.git/info/refs?service=git-receive-pack
+   redirect: http://1.1.1.3/disable/disable.htm?url_type=%E8%AE%BF%E9%97%AE%E7%BD%91%E7%AB%99/%49%54%E7%9B%B8%E5%85%B3&plc_name=%E7%A0%94%E5%8F%91%E5%8C%BA%E9%80%9A%E7%94%A8
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ git push -u origin main
+fatal: unable to access 'https://github.com/jntzhanghe/test.git/': OpenSSL SSL_connect: Connection was reset in connection to github.com:443
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ git push -u origin main
+fatal: unable to update url base from redirection:
+  asked for: https://github.com/jntzhanghe/test.git/info/refs?service=git-receive-pack
+   redirect: http://1.1.1.3/disable/disable.htm?url_type=%E8%AE%BF%E9%97%AE%E7%BD%91%E7%AB%99/%49%54%E7%9B%B8%E5%85%B3&plc_name=%E7%A0%94%E5%8F%91%E5%8C%BA%E9%80%9A%E7%94%A8
+
+zhanghe@DESKTOP-4279I6B MINGW64 /d/A (main)
+$ git push -u origin main
+fatal: unable to access 'https://github.com/jntzhanghe/test.git/': OpenSSL SSL_connect: Connection was reset in connection to github.com:443
+
